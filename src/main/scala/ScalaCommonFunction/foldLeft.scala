@@ -1,0 +1,5 @@
+package ScalaCommonFunction
+
+object foldLeft {
+
+}

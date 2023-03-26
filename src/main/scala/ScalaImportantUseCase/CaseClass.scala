@@ -1,0 +1,5 @@
+package ScalaImportantUseCase
+
+object CaseClass {
+
+}
